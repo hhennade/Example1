@@ -5,7 +5,7 @@ function sayHello()
 
 function greetings(fname)
 {
-    console.log("Hello "+fname);
+    console.log("Hello "+fname+ " how are you?");
 }
 
 sayHello();
